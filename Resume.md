@@ -43,14 +43,14 @@ Java, Java Scipt, Python, C/++, PostgreSQL, Type Script, Coffee Script, Rust, OC
 
 **Technologies**
 ```
-Git, Node, React/Native, MongoDB, GraphQL, PostgreSQL, Redis, Kafka, Zookeeper, WebAssembly, PyTorch
+Git, Node, React/Native, MongoDB, GraphQL, PostgreSQL, Redis, Kafka, Zookeeper, WebAssembly, PyTorch, CI
 
-AWS: Lambda, S3, DynamoDB, CloudWatch, CloudFront, AppConfig, Code Guru
+AWS: Lambda, S3, DynamoDB, CloudWatch, CloudFront, AppConfig, Code Guru, Pipelines
 ```
 
 **Frameworks**
 ```
-Spring, Guice, Angular4, Node Express
+GRPC, REST, Spring, Guice, Angular4, Node Express
 ```
 
 **Software**
